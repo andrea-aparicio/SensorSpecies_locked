@@ -72,7 +72,7 @@ def buildMat_f(file_n, save=0):
 
     return [As, Abins]
 
-#%% build competition vector
+#%% build competition matrix
     
 def compMat_f(file_n):
    
